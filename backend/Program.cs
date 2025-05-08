@@ -52,6 +52,8 @@ using (var scope = app.Services.CreateScope())
     await Info.SeedData(db);
 }
 
+
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -60,8 +62,14 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("AllowFrontend");
 
-app.UseHttpsRedirection();
-app.UseAuthorization();
+//app.UseHttpsRedirection();
+
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
+
+//app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
