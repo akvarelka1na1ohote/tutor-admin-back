@@ -1,0 +1,102 @@
+[
+  {
+    "Id": "7e476366-decf-4652-afbb-ce56a4b10536",
+    "PerformerToTimeId": "19b3a633-6422-42b2-8eaa-745814a5e698",
+    "UserId": "dff43fca-c7a1-47dc-b6bc-f2491924d4df",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 3,
+    "About_User": "Опытный педагог начального образования",
+    "Timetable_Anketa": "Вечернее время"
+  },
+  {
+    "Id": "8e476366-decf-4652-afbb-ce56a4b10537",
+    "PerformerToTimeId": "29b3a633-6422-42b2-8eaa-745814a5e699",
+    "UserId": "4b2e57fa-7a45-4251-8e58-da42e253a7fe",
+    "Id_Role": 2,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 4,
+    "About_User": "Специалист по математике",
+    "Timetable_Anketa": "Вторник, четверг вечером"
+  },
+  {
+    "Id": "9e476366-decf-4652-afbb-ce56a4b10538",
+    "PerformerToTimeId": "39b3a633-6422-42b2-8eaa-745814a5e69a",
+    "UserId": "6b2e57fa-7a45-4251-8e58-da42e253a7fd",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 2,
+    "About_User": "Учитель русского языка и литературы",
+    "Timetable_Anketa": "Только утром"
+  },
+  {
+    "Id": "ae476366-decf-4652-afbb-ce56a4b10539",
+    "PerformerToTimeId": "49b3a633-6422-42b2-8eaa-745814a5e69b",
+    "UserId": "8b2e57fa-7a45-4251-8e58-da42e253a7fc",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 5,
+    "About_User": "Физик-педагог",
+    "Timetable_Anketa": "Вторник и пятница днем"
+  },
+  {
+    "Id": "be476366-decf-4652-afbb-ce56a4b1053a",
+    "PerformerToTimeId": "59b3a633-6422-42b2-8eaa-745814a5e69c",
+    "UserId": "ab2e57fa-7a45-4251-8e58-da42e253a7fb",
+    "Id_Role": 2,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 3,
+    "About_User": "Преподаёт английский язык",
+    "Timetable_Anketa": "Три раза в неделю днём"
+  },
+  {
+    "Id": "ce476366-decf-4652-afbb-ce56a4b1053b",
+    "PerformerToTimeId": "69b3a633-6422-42b2-8eaa-745814a5e69d",
+    "UserId": "cb2e57fa-7a45-4251-8e58-da42e253a7fa",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 4,
+    "About_User": "История и обществознание",
+    "Timetable_Anketa": "Только вечера"
+  },
+  {
+    "Id": "de476366-decf-4652-afbb-ce56a4b1053c",
+    "PerformerToTimeId": "79b3a633-6422-42b2-8eaa-745814a5e69e",
+    "UserId": "eb2e57fa-7a45-4251-8e58-da42e253a7f9",
+    "Id_Role": 2,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 2,
+    "About_User": "Биология и химия",
+    "Timetable_Anketa": "По будням вечером"
+  },
+  {
+    "Id": "ee476366-decf-4652-afbb-ce56a4b1053d",
+    "PerformerToTimeId": "89b3a633-6422-42b2-8eaa-745814a5e69f",
+    "UserId": "0b2e57fa-7a45-4251-8e58-da42e253a7f8",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 3,
+    "About_User": "География и экология",
+    "Timetable_Anketa": "По выходным"
+  },
+  {
+    "Id": "fe476366-decf-4652-afbb-ce56a4b1053e",
+    "PerformerToTimeId": "99b3a633-6422-42b2-8eaa-745814a5e6a0",
+    "UserId": "2b2e57fa-7a45-4251-8e58-da42e253a7f7",
+    "Id_Role": 2,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 4,
+    "About_User": "Химия и физика",
+    "Timetable_Anketa": "Четверг и суббота"
+  },
+  {
+    "Id": "0e476366-decf-4652-afbb-ce56a4b1053f",
+    "PerformerToTimeId": "a9b3a633-6422-42b2-8eaa-745814a5e6a1",
+    "UserId": "4b2e57fa-7a45-4251-8e58-da42e253a7f6",
+    "Id_Role": 1,
+    "Education_User": "РГПУ имени Герцена",
+    "Course_User": 5,
+    "About_User": "Английский и литература",
+    "Timetable_Anketa": "Дважды в неделю днём"
+  }
+]

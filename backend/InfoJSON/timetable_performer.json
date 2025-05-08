@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "19b3a633-6422-42b2-8eaa-745814a5e698",
+    "Monday": true,
+    "Tuesday": true,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "29b3a633-6422-42b2-8eaa-745814a5e699",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": true,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "39b3a633-6422-42b2-8eaa-745814a5e69a",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "49b3a633-6422-42b2-8eaa-745814a5e69b",
+    "Monday": false,
+    "Tuesday": false,
+    "Wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "59b3a633-6422-42b2-8eaa-745814a5e69c",
+    "Monday": true,
+    "Tuesday": true,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "69b3a633-6422-42b2-8eaa-745814a5e69d",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "79b3a633-6422-42b2-8eaa-745814a5e69e",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": true,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "89b3a633-6422-42b2-8eaa-745814a5e69f",
+    "Monday": false,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": true,
+    "Sunday": false,
+    "Arrangement": false
+  },
+  {
+    "Id": "99b3a633-6422-42b2-8eaa-745814a5e6a0",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": true,
+    "Arrangement": false
+  },
+  {
+    "Id": "a9b3a633-6422-42b2-8eaa-745814a5e6a1",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": true,
+    "Arrangement": false
+  }
+]

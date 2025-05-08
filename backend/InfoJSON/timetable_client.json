@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "994e2039-5082-4eae-8b68-be1b437607b8",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "09:00-11:00" ]
+  },
+  {
+    "Id": "a94e2039-5082-4eae-8b68-be1b437607b9",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": true,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "16:00-18:00", "19:00-21:00" ]
+  },
+  {
+    "Id": "b94e2039-5082-4eae-8b68-be1b437607ba",
+    "Monday": true,
+    "Tuesday": true,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "10:00-12:00", "14:00-16:00" ]
+  },
+  {
+    "Id": "c94e2039-5082-4eae-8b68-be1b437607bb",
+    "Monday": false,
+    "Tuesday": false,
+    "Wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "15:00-17:00" ]
+  },
+  {
+    "Id": "d94e2039-5082-4eae-8b68-be1b437607bc",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "18:00-20:00" ]
+  },
+  {
+    "Id": "e94e2039-5082-4eae-8b68-be1b437607bd",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": true,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "17:00-19:00" ]
+  },
+  {
+    "Id": "f94e2039-5082-4eae-8b68-be1b437607be",
+    "Monday": true,
+    "Tuesday": true,
+    "Wednesday": true,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "09:00-11:00", "13:00-15:00" ]
+  },
+  {
+    "Id": "094e2039-5082-4eae-8b68-be1b437607bf",
+    "Monday": false,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": true,
+    "Friday": true,
+    "Saturday": true,
+    "Sunday": false,
+    "Arrangement": false,
+    "TimeSlots": [ "10:00-12:00", "14:00-16:00" ]
+  },
+  {
+    "Id": "194e2039-5082-4eae-8b68-be1b437607c0",
+    "Monday": true,
+    "Tuesday": false,
+    "Wednesday": false,
+    "Thursday": false,
+    "Friday": false,
+    "Saturday": true,
+    "Sunday": true,
+    "Arrangement": false,
+    "TimeSlots": [ "11:00-13:00" ]
+  },
+  {
+    "Id": "294e2039-5082-4eae-8b68-be1b437607c1",
+    "Monday": false,
+    "Tuesday": true,
+    "Wednesday": true,
+    "Thursday": true,
+    "Friday": false,
+    "Saturday": false,
+    "Sunday": true,
+    "Arrangement": false,
+    "TimeSlots": [ "16:00-18:00", "20:00-22:00" ]
+  }
+]

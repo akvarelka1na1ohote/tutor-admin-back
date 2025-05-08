@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "dff43fca-c7a1-47dc-b6bc-f2491924d4df",
+    "Name_User": "Игорь Петров",
+    "Birth_User": "2000-05-15",
+    "Gender_User": true,
+    "Phone_User": "+79111234567",
+    "Email_User": "igor.petrov@example.com"
+  },
+  {
+    "Id": "4b2e57fa-7a45-4251-8e58-da42e253a7fe",
+    "Name_User": "Анна Смирнова",
+    "Birth_User": "1998-03-20",
+    "Gender_User": false,
+    "Phone_User": "+79111234568",
+    "Email_User": "anna.smirnova@example.com"
+  },
+  {
+    "Id": "6b2e57fa-7a45-4251-8e58-da42e253a7fd",
+    "Name_User": "Сергей Иванов",
+    "Birth_User": "1997-08-12",
+    "Gender_User": true,
+    "Phone_User": "+79111234569",
+    "Email_User": "sergey.ivanov@example.com"
+  },
+  {
+    "Id": "8b2e57fa-7a45-4251-8e58-da42e253a7fc",
+    "Name_User": "Ольга Кузнецова",
+    "Birth_User": "1999-11-03",
+    "Gender_User": false,
+    "Phone_User": "+79111234570",
+    "Email_User": "olga.kuznetsova@example.com"
+  },
+  {
+    "Id": "ab2e57fa-7a45-4251-8e58-da42e253a7fb",
+    "Name_User": "Дмитрий Васильев",
+    "Birth_User": "1996-06-25",
+    "Gender_User": true,
+    "Phone_User": "+79111234571",
+    "Email_User": "dmitry.vasilyev@example.com"
+  },
+  {
+    "Id": "cb2e57fa-7a45-4251-8e58-da42e253a7fa",
+    "Name_User": "Светлана Сергеева",
+    "Birth_User": "1998-09-18",
+    "Gender_User": false,
+    "Phone_User": "+79111234572",
+    "Email_User": "svetlana.sergeeva@example.com"
+  },
+  {
+    "Id": "eb2e57fa-7a45-4251-8e58-da42e253a7f9",
+    "Name_User": "Алексей Фёдоров",
+    "Birth_User": "1997-02-10",
+    "Gender_User": true,
+    "Phone_User": "+79111234573",
+    "Email_User": "aleksey.fedorov@example.com"
+  },
+  {
+    "Id": "0b2e57fa-7a45-4251-8e58-da42e253a7f8",
+    "Name_User": "Марина Иванова",
+    "Birth_User": "1999-04-22",
+    "Gender_User": false,
+    "Phone_User": "+79111234574",
+    "Email_User": "marina.ivanova@example.com"
+  },
+  {
+    "Id": "2b2e57fa-7a45-4251-8e58-da42e253a7f7",
+    "Name_User": "Александр Попов",
+    "Birth_User": "1996-12-05",
+    "Gender_User": true,
+    "Phone_User": "+79111234575",
+    "Email_User": "alexander.popov@example.com"
+  },
+  {
+    "Id": "4b2e57fa-7a45-4251-8e58-da42e253a7f6",
+    "Name_User": "Кристина Петрова",
+    "Birth_User": "1998-07-30",
+    "Gender_User": false,
+    "Phone_User": "+79111234576",
+    "Email_User": "kristina.petrova@example.com"
+  }
+]

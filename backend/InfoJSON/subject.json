@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "4731e6db-7aef-4e83-9a83-82c279a652a1",
+    "Name_Subject": "Математика"
+  },
+  {
+    "Id": "5731e6db-7aef-4e83-9a83-82c279a652a2",
+    "Name_Subject": "Русский язык"
+  },
+  {
+    "Id": "6731e6db-7aef-4e83-9a83-82c279a652a3",
+    "Name_Subject": "Литература"
+  },
+  {
+    "Id": "7731e6db-7aef-4e83-9a83-82c279a652a4",
+    "Name_Subject": "Физика"
+  },
+  {
+    "Id": "8731e6db-7aef-4e83-9a83-82c279a652a5",
+    "Name_Subject": "Химия"
+  },
+  {
+    "Id": "9731e6db-7aef-4e83-9a83-82c279a652a6",
+    "Name_Subject": "Биология"
+  },
+  {
+    "Id": "a731e6db-7aef-4e83-9a83-82c279a652a7",
+    "Name_Subject": "Обществознание"
+  },
+  {
+    "Id": "b731e6db-7aef-4e83-9a83-82c279a652a8",
+    "Name_Subject": "История"
+  },
+  {
+    "Id": "c731e6db-7aef-4e83-9a83-82c279a652a9",
+    "Name_Subject": "Информатика"
+  },
+  {
+    "Id": "d731e6db-7aef-4e83-9a83-82c279a652aa",
+    "Name_Subject": "Английский язык"
+  }
+]
