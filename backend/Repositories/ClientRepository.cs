@@ -19,7 +19,7 @@ public class ClientRepository
     public async Task<List<DbClient>> GetAllAsync()
     {
         // Использует метод ToListAsync(), возвращающий все объекты типа DbClient
-        return await _context.Clients.Include(x => x.MatchClients).ThenInclude(x => x.Subject).ToListAsync();
+        return await _context.Clients.ToListAsync();
     }
 
 
