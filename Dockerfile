@@ -12,7 +12,7 @@ RUN dotnet dev-certs https --trust
 RUN dotnet publish -c Release -o out
 
 # Runtime Stage
-FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 
 COPY --from=build /app/out .
